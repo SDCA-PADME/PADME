@@ -11,6 +11,7 @@ website:
       - text: Projects
         menu:
           - projects/prepare-child.md
+          - projects/ppc.md
 
 
 
