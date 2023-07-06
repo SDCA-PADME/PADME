@@ -7,19 +7,17 @@ website:
     right:
       - href: index.qmd
         text: Forskning
-      - about.qmd
+      - team.md
       - text: Projects
         menu:
           - projects/prepare-child.md
           - projects/ppc.md
 
-
-
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme:
+      - flatly
+      - theme.scss
     toc: true
 
 editor: visual
-
