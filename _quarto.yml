@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "PADME"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Forskning
+      - about.qmd
+      - text: Projects
+        menu:
+          - projects/prepare-child.md
+
+
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
