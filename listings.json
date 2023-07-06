@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/projects/ppc.html",
+    "items": [
+      "/projects/prepare-child/deltagerinformation.html",
+      "/projects/prepare-child/medarbejderinformation.html",
+      "/projects/prepare-child/forskere.html"
+    ]
+  },
+  {
     "listing": "/projects/prepare-child.html",
     "items": [
       "/projects/prepare-child/deltagerinformation.html",
