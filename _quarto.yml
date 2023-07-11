@@ -7,11 +7,12 @@ website:
     right:
       - href: index.qmd
         text: Forskning
-      - about.qmd
       - text: Projekter
         menu:
           - projects/prepare-child.md
           - projects/ppc.md
+      - text: Team
+        href: team.md
       - text: Kontakt
         href: kontakt.md
 
