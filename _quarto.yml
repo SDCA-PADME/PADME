@@ -8,10 +8,13 @@ website:
       - href: index.qmd
         text: Forskning
       - about.qmd
-      - text: Projects
+      - text: Projekter
         menu:
           - projects/prepare-child.md
           - projects/ppc.md
+      - text: Kontakt
+        href: kontakt.md
+
 
 
 
