@@ -4,17 +4,33 @@ project:
 website:
   title: "PADME"
   navbar:
+    left:
+      - icon: house-door
+        href: "index.qmd"
+        text: "Forskning"
     right:
-      - href: index.qmd
-        text: Forskning
+      - text: Team
+        href: team.md
       - text: Projekter
         menu:
           - projects/prepare-child.md
           - projects/ppc.md
-      - text: Team
-        href: team.md
+      - text: Nyheder
+        href: nyheder.md
       - text: Kontakt
         href: kontakt.md
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: globe
+        href: "https://www.stenoaarhus.dk/research"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+  page-footer:
+    border: true
+    background: darkblue
+    center:
+      - text: "Sidefod, hvad vil vi skrive her?"
 
 
 

@@ -1,3 +1,35 @@
 ---
 title: "Velkommen"
 ---
+
+I vores PADME (Pregnancy And Diabetes Metabolisme Epidemiology) gruppe beskæftiger vi os overordnet med forskning indenfor graviditet og diabetes. Vi tror på, at vi via et godt samarbejde og gode relationer opnår en bedre viden-udveksling og bedre forskning, derfor har vi oprettet denne gruppe på tværs af projekter, hvor vi jævnligt mødes. Vi beskæftiger os både med klinisk forskning og epidemiologiske studier.
+
+## Forskningsområder:
+
+-   Glukose metabolisme
+-   Insulin Resistens
+-   Gestational Diabetes
+-   Diabetes og graviditet
+-   Overvægt og graviditet
+
+**Glukose metabolisme**
+
+Vi undersøger bl.a. hvordan forskellige interventioner - både diætetisk, fysiologiske og medikamentelle - påvirker glukose metabolismen hos raske og hos personer med diabetes.
+
+Vi anvender bl.a. metoder som OGTT (Oral Glukose Tolerance Test).
+
+**Insulin Resistens**
+
+**Gestational Diabetes**
+
+**Diabetes og graviditet**
+
+Vi undersøger sammenhængen mellem diabetes, graviditetskomplikationer, fødselskomplikationer og udfald hos barnet, bl.a. barnets fødselsvægt, fedtmasse og generelle sundhed.
+
+I flere af vores projekter indsamles navlesnorsblod ifm. fødslen.
+
+**Overvægt og graviditet**
+
+Vi undersøger sammenhængen mellem overvægt og udvikling af diabetes i graviditeten (Gestationel diabetes), graviditetskomplikationer, fødselskomplikationer og udfald hos barnet, bl.a. barnets fødselsvægt, fedtmasse og generelle sundhed.
+
+Vi gør brug af en lang række metoder til at undersøge deltagernes sundhed, herunder VO2 max test, DEXA scanninger, Indirekte kalorimetri, Hudfoldsmålinger, Omkredsmålinger og OGTT.

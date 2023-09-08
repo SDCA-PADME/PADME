@@ -1,9 +1,11 @@
 ---
 title: "Ulla Kampmann Opstrup"
-order: 4
-image: /documents/github/padme/images/Ulla-opstrup.jpeg 
+order: 1
+image: ../images/ulla_opstrup.jpg 
 ---
 
-Overlæge og Lektor ved Steno Diabetes Center Aarhus
+![Ulla Kampmann Opstrup](../images/ulla_opstrup.jpg){width=500 fig-align="left"}
 
-+ foto
+Overlæge, ph.d. og Lektor ved Steno Diabetes Center Aarhus
+
+Email: [ulla.kampmann\@clin.au.dk](mailto:ulla.kampmann@clin.au.dk){.email}

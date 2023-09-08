@@ -1,11 +1,13 @@
 ---
-title: "Team members"
+title: "Forskere"
 listing:
   contents: researchers
   type: grid
   sort: "order"
 ---
 
+
 Fælles for os er ... vi har forskellig baggrund som ...
+
 
 
