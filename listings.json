@@ -1,6 +1,21 @@
 [
   {
-    "listing": "/projects/prepare-child.html",
+    "listing": "/team.html",
+    "items": [
+      "/researchers/ulla-opstrup.html",
+      "/researchers/per-ovesen.html",
+      "/researchers/sine_knorr.html",
+      "/researchers/magnus_moeller.html",
+      "/researchers/stine_smedegaard.html",
+      "/researchers/ninna_larsen.html",
+      "/researchers/louise-suder.html",
+      "/researchers/tine-storebjerg.html",
+      "/researchers/eva_gjørup.html",
+      "/researchers/helene_hojbjerre.html"
+    ]
+  },
+  {
+    "listing": "/projects/ppc.html",
     "items": [
       "/projects/prepare-child/deltagerinformation.html",
       "/projects/prepare-child/medarbejderinformation.html",
@@ -8,7 +23,7 @@
     ]
   },
   {
-    "listing": "/projects/ppc.html",
+    "listing": "/projects/prepare-child.html",
     "items": [
       "/projects/prepare-child/deltagerinformation.html",
       "/projects/prepare-child/medarbejderinformation.html",
