@@ -9,5 +9,3 @@ listing:
 
 Fælles for os er ... vi har forskellig baggrund som ..
 
-
-
